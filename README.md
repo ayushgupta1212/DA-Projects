@@ -1,2 +1,2 @@
 # DA-Projects
-This repo. contains real world data analytics projects as well as my resume 
+This repo. contains real world data analytics projects as well as resume 
